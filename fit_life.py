@@ -103,6 +103,6 @@ water_l = water_ml / ML_TO_L
 
 print(f'Отчет для пользователя: {name}, {age} лет.')
 print(f'Твой Индекс Массы Тела: {bmi:.1f}')
-print(f'Классификация массы тела: {classify_bmi(bmi)}')
+# print(f'Классификация массы тела: {classify_bmi(bmi)}')
 print(f'Рекомендуемая норма воды: {water_l:.1f} л. в день')
 print('Расчет окончен. Будьте здоровы!')
